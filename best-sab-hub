@@ -1,2 +1,2 @@
-KEY = "COFI-WGR-HRD"
+KEY = "COFI-8RM-OT7"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Cofizin/script/refs/heads/main/script.lua"))()
